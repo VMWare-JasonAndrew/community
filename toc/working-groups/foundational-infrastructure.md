@@ -247,6 +247,8 @@ areas:
     github: ystros
   - name: Chris Selzo
     github: selzoc
+  - name: Jason Andrew
+    github: VMWare-JasonAndrew
   reviewers:
   - name: Matthias Vach
     github: mvach
