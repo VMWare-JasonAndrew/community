@@ -224,7 +224,7 @@ areas:
   - cloudfoundry/concourse-infra-for-gke
   - cloudfoundry/bosh-stemcells-ci
 - name: VM deployment lifecycle (BOSH)
-  approvers:
+  approvers: 
   - name: Long Nguyen
     github: lnguyen
   - name: Ramon Makkelie
